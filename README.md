@@ -1,4 +1,4 @@
-Seamlessly_Integrating_a_Person_into_a_Scene# Seamlessly Integrating a Person into a Scene
+## Seamlessly Integrating a Person into a Scene
 
 ## Objective
 
